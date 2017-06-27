@@ -5,7 +5,9 @@ public class Qr {
 		String str[] = {"aa","bb","cc"};
 		for(String s:str){
 			System.out.println(s);
-			System.out.println("---------");
+			if("bb".equals(s)){
+				System.out.println("---------");
+			}
 		}
 	}
 }
