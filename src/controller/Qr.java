@@ -11,5 +11,6 @@ public class Qr {
 				System.out.println(QR_STATUS);
 			}
 		}
+		//this is my demo for git study 
 	}
 }
